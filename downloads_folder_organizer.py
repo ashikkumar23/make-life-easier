@@ -1,6 +1,12 @@
-"""
-This script is meant for macOS
-"""
+#!/usr/bin/env python3
+# -----------------------------------------------------------------------------
+# Created On  : macOS Catalina 10.15.7 (19H15)
+# Created On  : Python 3.8.2
+# Created By  : Ashik Kumar
+# Created Date: Sat, Feb 05 2022 22:27:00 IST
+# -----------------------------------------------------------------------------
+"""THE MODULE HAS BEEN BUILT FOR ORGANIZING THE DOWNLOADS FOLDER ON MAC OS"""
+# -----------------------------------------------------------------------------
 
 import os
 from pathlib import Path

@@ -1,3 +1,7 @@
+"""
+This script is meant for macOS
+"""
+
 import os
 from pathlib import Path
 
